@@ -1,0 +1,20 @@
+/* @font-face {
+    font-family: NAME OF NEW FONT TO CREATE;
+    src: url(URL TO FONT HERE);
+} */
+
+
+html, body {
+    margin: 0;
+    background-color: #FAFAFA;
+    overflow-x: hidden;
+    font-family: Arvo;
+}
+
+*  {
+    box-sizing: border-box;
+}
+
+nav a{
+    font-size: 20px;
+}
